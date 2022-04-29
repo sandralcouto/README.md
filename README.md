@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Sandra 👋
 
-Estou em transição de carreira para a área de Tecnologia desde final de 2020 e tenho estudado bastante desde então. 
+Estou em transição de carreira para a área de Tecnologia.
 
-Meu foco, no momento, são os estudos em Javascript. Inicialmente, JS "vanilla", mas agora tenho me aventurado por Node JS e o Framework Koa JS.
+Meu foco, no momento, são os estudos em Javascript. Inicialmente, JS "vanilla", mas agora tenho me aventurado por Node JS.
 
 
 Você pode me encontrar no Linkedin:
